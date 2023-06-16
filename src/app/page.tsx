@@ -1,5 +1,4 @@
 import { Inter } from 'next/font/google'
-import SideNav from "@/components/SideNav";
 import Hero from "@/components/Hero";
 import Contact from "@/components/Contact";
 import About from "@/components/About";

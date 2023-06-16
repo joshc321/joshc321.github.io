@@ -11,7 +11,7 @@ export default function Projects() {
             <ol className="group/list">
                 {
                     projectsData.map((data => (
-                        <li className="mb-12">
+                        <li key={data.title} className="mb-12">
                             <Card
                                 timelineLabel={data.timelineLabel}
                                 timeline={data.timeline}

@@ -49,7 +49,7 @@ export default function Card(
                     {
                         otherTitles ? otherTitles.map((title => (
 
-                                <div>
+                                <div key={title}>
                                     <div className="text-slate-500" aria-hidden="true">{title}</div>
                                 </div>
                         ))) : null
@@ -60,7 +60,7 @@ export default function Card(
                 <ul className="mt-2 flex flex-wrap" aria-label="Technologies used">
                     {
                         bullets ? bullets.map((name => (
-                            <li className="mr-1.5 mt-2">
+                            <li key={name} className="mr-1.5 mt-2">
                                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                     {name}
                                 </div>

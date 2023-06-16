@@ -13,7 +13,7 @@ export default function Experience() {
                 <ol className="group/list">
                     {
                         experienceData.map((data => (
-                            <li className="mb-12">
+                            <li key={data.title} className="mb-12">
                                 <Card
                                     timelineLabel={data.timelineLabel}
                                     timeline={data.timeline}
