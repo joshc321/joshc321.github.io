@@ -1,0 +1,42 @@
+[
+  {
+    "timelineLabel": "2023",
+    "timeline": "2023",
+    "href": "",
+    "title": "Search Engine",
+    "othertitles": [],
+    "organization": "",
+    "description": "Wrote a search engine from the ground up capable of handling thousands of documents through custom data storage methods, able to generate query responses in under 200ms. Developed using Python with a group of three other students.",
+    "bullets": ["python", "data processing"]
+  },
+  {
+    "timelineLabel": "2021 to present",
+    "timeline": "2021 — present",
+    "href": "https://github.com/joshc321/cypress",
+    "title": "Cypress",
+    "othertitles": [],
+    "organization": "",
+    "description": "A progressive web app designed for service-oriented companies allowing for easy customer and service management. Started the project with the goal of bettering my understanding of web development. Used Nodejs, TypeScript, Expressjs, and MongoDB for the backend and React for the front end. Deployed on Ubuntu Server.",
+    "bullets": ["Nodejs", "Typescript", "Expressjs", "MongoDB", "React"]
+  },
+  {
+    "timelineLabel": "2022",
+    "timeline": "2022",
+    "href": "https://github.com/joshc321/pathfinding",
+    "title": "Maze Generator and Solver",
+    "othertitles": ["pathfinding"],
+    "organization": "",
+    "description": "Developed a maze generator and solver that creates and visualizes mazes using a variety of pathfinding and generation algorithms.",
+    "bullets": ["Python", "Graphs", "PyGame"]
+  },
+  {
+    "timelineLabel": "2020",
+    "timeline": "2020",
+    "href": "",
+    "title": "RFID Login System",
+    "othertitles": [],
+    "organization": "",
+    "description": "Created a login system for a high school allowing for contactless check-in with RFID cards. Used python to communicate with google sheets through googles sheets API.",
+    "bullets": ["Python", "API"]
+  }
+]

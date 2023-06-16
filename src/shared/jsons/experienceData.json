@@ -1,0 +1,32 @@
+[
+  {
+    "timelineLabel": "June to September 2023",
+    "timeline": "June — September 2023",
+    "href": "",
+    "title": "QA Engineer Intern",
+    "othertitles": [],
+    "organization": "Amazon",
+    "description": "Future position",
+    "bullets": []
+  },
+  {
+    "timelineLabel": "September 2022 to January 2023",
+    "timeline": "September 2022 — January 2023",
+    "href": "",
+    "title": "Web Development Intern",
+    "othertitles": [],
+    "organization": "AONDevices",
+    "description": "Helped in the development of service API using Nodejs, Typescript, and Expressjs as well as worked on creating the frontend using React",
+    "bullets": ["Nodejs", "Typescript", "React"]
+  },
+  {
+    "timelineLabel": "June to September 2022",
+    "timeline": "June — September 2022",
+    "href": "",
+    "title": "Web Development Intern",
+    "othertitles": [],
+    "organization": "Applied Medical",
+    "description": "Developed automation to optimize daily activities for Team Members. Provided technical support for other Team Members.",
+    "bullets": ["python", "ServiceNow"]
+  }
+]
