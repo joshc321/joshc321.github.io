@@ -1,3 +1,5 @@
 # joshc321.github.io
-Home page
-https://joshc321.github.io/
+
+### Built with
+- next js
+- tailwind

@@ -7,7 +7,7 @@ export default function About() {
             id={"about"}
         >
             <p className="mb-4">
-                I&apo;sve always had a curiosity for understanding the inner workings
+                I&apos;ve always had a curiosity for understanding the inner workings
                 of everyday objects since a young age. Over time I have developed
                 new skills to better understand the world around me. Many of my
                 current and past projects are a way for me to build upon this.
