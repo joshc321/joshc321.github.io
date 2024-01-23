@@ -2,6 +2,16 @@
   {
     "timelineLabel": "2023",
     "timeline": "2023",
+    "href": "https://github.com/joshc321/basketball_predictor",
+    "title": "Basketball Predictor",
+    "othertitles": [],
+    "organization": "",
+    "description": "Developed a program to predict if a basketball will go into the net. Basketball is located in 3D space through triangulation from image pairs from stereo cameras. Created ball detection, tracking, hoop detection, triangulation, and prediction algorithms that can run in real-time and process each set of frames in under 30ms. Built with Python.",
+    "bullets": ["computer vision", "python", "object detection", "object tracking"]
+  },
+  {
+    "timelineLabel": "2023",
+    "timeline": "2023",
     "href": "",
     "title": "Search Engine",
     "othertitles": [],
