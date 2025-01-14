@@ -3,8 +3,8 @@ import SideNav from "@/components/SideNav";
 export default function Hero() {
 
     const info = {
-        name: "Joshua Cordero",
-        primary: "Student at UCI",
+        name: "Josh Cordero",
+        primary: "The Thinker",
         secondary: "Passionate about leveraging technology to drive positive change."
     }
 

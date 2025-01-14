@@ -27,7 +27,7 @@
     "othertitles": [],
     "organization": "",
     "description": "A progressive web app designed for service-oriented companies allowing for easy customer and service management. Started the project with the goal of bettering my understanding of web development. Used Nodejs, TypeScript, Expressjs, and MongoDB for the backend and React for the front end. Deployed on Ubuntu Server.",
-    "bullets": ["Nodejs", "Typescript", "Expressjs", "MongoDB", "React"]
+    "bullets": ["Nodejs", "Typescript", "Expressjs", "MongoDB", "React", "Postgresql", "VRP"]
   },
   {
     "timelineLabel": "2022",
